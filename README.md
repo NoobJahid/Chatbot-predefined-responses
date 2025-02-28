@@ -16,4 +16,4 @@ This is a simple chatbot script named **Jahid** that responds to user inputs bas
 3. Type 'bye' to exit the chatbot.
 
 ## Author
-Developed by Udypur
+Developed by NoobJahid
